@@ -1,0 +1,7 @@
+vhdl work "nand_gate.vhd"
+vhdl work "not_gate.vhd"
+vhdl work "xor_gate.vhd"
+vhdl work "and_gate.vhd"
+vhdl work "orgate.vhd"
+vhdl work "half_adder.vhd"
+vhdl work "Full_adder.vhd"
