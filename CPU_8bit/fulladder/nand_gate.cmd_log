@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Linked_Folder/fulladder/nand_gate.xst" -ofn "/home/ise/Linked_Folder/fulladder/nand_gate.syr" 
